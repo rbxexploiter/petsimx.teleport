@@ -1,0 +1,2 @@
+-- do not use jjsploit, else your roblox will be crushed
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/rbxexploiter/Pet-Simulator-X-Free-Teleport-Hack/main/petsimxtp"))()
